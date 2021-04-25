@@ -1,6 +1,11 @@
-![Porfolio feature image](https://firebasestorage.googleapis.com/v0/b/newtou-portfolio.appspot.com/o/public%2FGithub_profile.png?alt=media&token=367f865f-a6a5-47cc-b236-40a40b5171d0)
+![Porfolio feature image](https://firebasestorage.googleapis.com/v0/b/newtou-portfolio.appspot.com/o/public%2FGithub_profile.png?alt=media&token=e4c52637-8bf0-49d9-a8ee-fbb1d82fbaf4)
 
-### Hi there 👋
+## Hi there 👋
+
+- 🔭 I’m currently working on a platform to make it easier for datascientists to access Kenyan Data [@aesopske](https://aesops.co.ke).
+- 🌱 I’m currently learning machine learning in Python 
+- 📫 How to reach me: mymbugua@gmail.com && [Newton Mbugua](https://newtou.netlify.app)
+
 
 <!--
 **newtfrank/newtfrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
