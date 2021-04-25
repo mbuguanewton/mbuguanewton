@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning machine learning in Python 
 - 📫 How to reach me: mymbugua@gmail.com && [Newton Mbugua](https://newtou.netlify.app)
 
+### Favourite Quote
+> “Genius is one percent inspiration and ninety-nine percent perspiration ” –Thomas Edison
+
 
 <!--
 **newtfrank/newtfrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
