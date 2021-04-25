@@ -1,7 +1,10 @@
+[Porfolio feature image](https://firebasestorage.googleapis.com/v0/b/newtou-portfolio.appspot.com/o/public%2FGithub_profile.png?alt=media&token=367f865f-a6a5-47cc-b236-40a40b5171d0)
+
 ### Hi there 👋
 
 <!--
 **newtfrank/newtfrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
